@@ -1,0 +1,149 @@
+# Zomato-clone
+<html>
+    <head>
+        <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Zomato</title>
+        <link rel="shortcut icon" href="https://b.zmtcdn.com/images/logo/zomato_logo_2017.png" type="image/x-icon">
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    </head>
+
+    <body>
+        <!-- Header -->
+        <header>
+            <div class="nav">
+                <div>
+                    <p>
+                        Get the app
+                    </p>
+                </div>
+                <ul class="Nav-bar">
+                    <li>Add Resturants</li>
+                    <li>Login</li>
+                    <li>Sign up</li>
+                </ul>
+
+            </div>
+            <div class="head">
+                <img class="logo" src="https://b.zmtcdn.com/web_assets/8313a97515fcb0447d2d77c276532a511583262271.png" alt="" >
+                <h3>Discover the best food & deink in Jaipur</h3>
+                <div class="search">
+                    <div class="Search-Item">
+                        <i class="fas fa-map-marker-alt"></i>
+                        <p>Jaipur</p>
+
+
+                    </div>
+                    <div class="Search Item">
+                        <i class="fas fa-search"></i>
+                        <input type="text"placeholder="search for restrurants, cusine or a dish">
+
+                    </div>
+                    
+                </div>
+
+            </div>
+            <div class="Header-image">
+                <img src="https://www.thespruceeats.com/thmb/htgE7CCYS5FaW99oF183gVl7e_Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-639389404-5c450e724cedfd00015b09d5.jpg" alt="Fuck off">
+
+            </div>
+        </header>
+        <!-- Section 1 -->
+    <section class="section-1">
+        <div class="section-1-item">
+            <div class="items-details"><p>Order Food Online</p></div>
+            <img src="https://b.zmtcdn.com/webFrontend/e5b8785c257af2a7f354f1addaf37e4e1647364814.jpeg?output-format=webp&fit=around|402:360&crop=402:360;*,*
+            " alt="">
+        </div>
+        <div class="section-1-item">
+            <div class="items-details"><p>Dining Out</p></div>
+            <img src="https://b.zmtcdn.com/webFrontend/d026b357feb0d63c997549f6398da8cc1647364915.jpeg?output-format=webp&fit=around|402:360&crop=402:360;*,*
+            " alt="">
+        </div>
+        <div class="section-1-item">
+            <div class="items-details"><p>Nightlife & Club</p></div>
+            <img src="https://b.zmtcdn.com/webFrontend/d9d80ef91cb552e3fdfadb3d4f4379761647365057.jpeg?output-format=webp&fit=around|402:360&crop=402:360;*,*
+            " alt="">
+        </div>
+    </section>
+
+    <!-- SECTION 2 -->
+    <section class="section-2">
+        <div class="section-2-heading">
+            <p>Popular localities in Jaipur</p>
+        </div>
+        <div class="section-2-container">
+            <div class="section-2-items">
+                <div class="section-2-item">
+                    <p class="item-head">MI Road</p>
+                    <p class="item-subhead">Bani Park</p>
+                </div>
+                <div class="section-2-item">
+                    <p class="item-head">Tonk Road</p>
+                    <p class="item-subhead">Mansaroovar</p>
+                </div>
+                <div class="section-2-item">
+                    <p class="item-head">Bais Godam</p>
+                    <p class="item-subhead">Aadarsh Nagar</p>
+                </div>
+                <div class="section-2-item">
+                    <p class="item-head">Ajmer Highway</p>
+                    <p class="item-subhead">Lal Kothi</p>
+                </div>
+                <div class="section-2-item">
+                    <p class="item-head">Gopal Bari</p>
+                    <p class="item-subhead">Sodala/p>
+                </div>
+                <div class="section-2-item">
+                    <p class="item-head">Shyam Nagar</p>
+                    <p class="item-subhead">Sindhi Camp</p>
+                </div>
+                <div class="section-2-item">
+                    <p class="item-head">Pink city</p>
+                    <p class="item-subhead">Amer</p>
+                </div>
+                <div class="section-2-item">
+                    <p class="item-head">C scheme</p>
+                    <p class="item-subhead">Vaishali Nagar</p>
+                </div>
+                <div class="section-2-item">
+                    <p class="item-head">Raja Park</p>
+                    <p class="item-subhead">Malviya Nagar</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION 3 -->
+    <section class="section-3">
+        <div class="section-3-container">
+            <div class="section-3-img">
+                <img src="https://b.zmtcdn.com/data/o2_assets/a500ffc2ab483bc6a550aa635f4e55531648107832.png" alt="">
+            </div>
+            <div class="section-3-content">
+                <h1>Get the Zomato App</h1>
+                <p>
+                    Download the app from
+                </p>
+                <div class="section-3-download">
+                    <img src="https://b.zmtcdn.com/data/webuikit/23e930757c3df49840c482a8638bf5c31556001144.png" alt="">    
+                    <img src="https://b.zmtcdn.com/data/webuikit/9f0c85a5e33adb783fa0aef667075f9e1556003622.png" alt="">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <code>
+            Made with ❤️ by Mansi kumari
+        </code>    
+    </footer>
+        
+    </body>
+
+
+
+</html>
